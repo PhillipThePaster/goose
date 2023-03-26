@@ -1,4 +1,9 @@
-
+/**
+ * @name VSC Cord
+ * @version 1.4
+ * @description Theme based on Visual Studio Code design. Credit to userMacieG#7591 for allowing me to use stuff from his Discord.tv theme.
+ * @author Xyhlo#9766
+*/
 /* USRBG */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
 /* SUPPORTERS */
@@ -8,7 +13,7 @@
 
 body.powercord . header-QKLPzZ{background: unset!important;}
 
-
+/* VSC Cord */
 :root {
 	--color-brand: #111C2F;
 	--color-brand-darker: #0c1420;
